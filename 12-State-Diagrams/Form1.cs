@@ -17,7 +17,7 @@ namespace State_Diagrams
 
         GameController c;  // holds handle to the controller object (no delegates today, OK?)
         Status state;     // remembers the current state of the game
-        bool SecoundWon = false;
+        bool SecoundWon = false; 
 
 
         public Form1(GameController c)
